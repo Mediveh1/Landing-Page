@@ -1,0 +1,185 @@
+
+
+body{
+    background-color: black;
+    justify-content: center;
+}
+img{
+    height:200px;
+    width: 200px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width:900px;
+     align-content: center;
+      margin: auto;
+      padding: 0;
+}
+.logo{
+    font-size:20px;
+    font-weight: bold;
+    color: white;
+    margin-left: 130px;
+    margin-top: 8px;
+    
+}
+.list{
+    display: flex;
+    flex-direction: row;
+    color: grey;
+    gap: 15px;
+    font-size: 16px;
+    margin-right: 130px;
+    margin-top: 15px;
+}
+.class-1{
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+    height: 320px;
+    
+}
+
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+}
+.container-1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    padding-bottom: 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+.title{
+    margin-left: 130px;
+}
+.mid-img{
+    margin-right: 140px;
+    height: 150px;
+    width: 400px;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+.enwan{
+    font-size: 36px;
+    font-weight: bolder;
+    color: white;
+    font-family: sans-serif;
+}
+.sub3enwan{
+    font-size: 24;
+    color: white;
+}
+.button-1{
+    font-size: small;
+    width: 80px ;
+    background-color: #3882F6;
+    border-radius:5px;
+    padding: 4px;
+    color: white;
+    font-weight: 10px;
+    border: none;
+}
+
+.class-2{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 50px;
+}
+.midt{
+    text-align: center;
+    margin-bottom: 15px;
+   font-weight: 800;
+   font-size: 50px;
+    
+}
+
+.mid-cards{
+    display:flex;
+    justify-content: center;
+    gap:25px;
+}
+
+.image-mid {
+border-radius: 5px;
+width: 120px;
+height:120px;
+}
+
+.class-3{
+    display: flex;
+    flex-direction: column;
+    background-color:   #E5E7EB;
+    text-align: center;
+    padding: 24px;
+
+ }
+.klamkteer{
+    font-size: 30px;
+    font-weight: bold;
+    color: grey;
+    padding: 60px;
+    padding-bottom: 10px;
+    
+}
+.albert{
+    align-self: flex-end;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    color: grey;
+    padding-bottom: 30px;
+}
+.class-4{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+     padding: 40px;
+
+}
+.modal{
+    display: flex;
+    flex-direction: row;
+    background-color: #3882F6;
+    padding: 40px;
+    border-radius: 5px;
+    justify-content: space-around;
+    gap: 100px;
+    margin: 50px;
+
+    
+}
+.klam-kteer1{
+    color: white;
+}
+.button-2{
+    width: 120px;
+    border-radius: 5px;
+    border: 1px solid white;
+    background-color: #3882F6;
+    color: white;
+    
+}
+
+.class-5{
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+    background-color:  #1F2937;
+    justify-content: center;
+    color: white;
+}
